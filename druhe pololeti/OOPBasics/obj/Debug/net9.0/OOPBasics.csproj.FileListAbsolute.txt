@@ -1,0 +1,15 @@
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.exe
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.deps.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.runtimeconfig.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.AssemblyInfoInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.AssemblyInfo.cs
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.sourcelink.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\refint\OOPBasics.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.genruntimeconfig.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPBasics\obj\Debug\net9.0\ref\OOPBasics.dll
