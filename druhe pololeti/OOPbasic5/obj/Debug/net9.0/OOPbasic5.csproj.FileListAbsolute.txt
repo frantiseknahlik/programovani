@@ -1,0 +1,15 @@
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\bin\Debug\net9.0\OOPbasic5.exe
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\bin\Debug\net9.0\OOPbasic5.deps.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\bin\Debug\net9.0\OOPbasic5.runtimeconfig.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\bin\Debug\net9.0\OOPbasic5.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\bin\Debug\net9.0\OOPbasic5.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.AssemblyInfoInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.AssemblyInfo.cs
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.csproj.CoreCompileInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.sourcelink.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\refint\OOPbasic5.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\OOPbasic5.genruntimeconfig.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\OOPbasic5\obj\Debug\net9.0\ref\OOPbasic5.dll

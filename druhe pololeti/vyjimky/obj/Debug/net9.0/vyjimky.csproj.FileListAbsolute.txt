@@ -1,0 +1,15 @@
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\bin\Debug\net9.0\vyjimky.exe
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\bin\Debug\net9.0\vyjimky.deps.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\bin\Debug\net9.0\vyjimky.runtimeconfig.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\bin\Debug\net9.0\vyjimky.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\bin\Debug\net9.0\vyjimky.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.AssemblyInfoInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.AssemblyInfo.cs
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.csproj.CoreCompileInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.sourcelink.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\refint\vyjimky.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\vyjimky.genruntimeconfig.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\vyjimky\obj\Debug\net9.0\ref\vyjimky.dll

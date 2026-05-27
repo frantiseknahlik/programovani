@@ -1,0 +1,15 @@
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\bin\Debug\net9.0\Inharitnce.exe
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\bin\Debug\net9.0\Inharitnce.deps.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\bin\Debug\net9.0\Inharitnce.runtimeconfig.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\bin\Debug\net9.0\Inharitnce.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\bin\Debug\net9.0\Inharitnce.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.AssemblyInfoInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.AssemblyInfo.cs
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.csproj.CoreCompileInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.sourcelink.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\refint\Inharitnce.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\Inharitnce.genruntimeconfig.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\Inharitnce\obj\Debug\net9.0\ref\Inharitnce.dll

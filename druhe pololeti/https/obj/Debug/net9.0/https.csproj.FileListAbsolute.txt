@@ -1,0 +1,15 @@
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\bin\Debug\net9.0\https.exe
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\bin\Debug\net9.0\https.deps.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\bin\Debug\net9.0\https.runtimeconfig.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\bin\Debug\net9.0\https.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\bin\Debug\net9.0\https.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.AssemblyInfoInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.AssemblyInfo.cs
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.csproj.CoreCompileInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.sourcelink.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\refint\https.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\https.genruntimeconfig.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\https\obj\Debug\net9.0\ref\https.dll
