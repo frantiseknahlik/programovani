@@ -1,0 +1,15 @@
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\bin\Debug\net9.0\zaverecny-projekt.exe
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\bin\Debug\net9.0\zaverecny-projekt.deps.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\bin\Debug\net9.0\zaverecny-projekt.runtimeconfig.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\bin\Debug\net9.0\zaverecny-projekt.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\bin\Debug\net9.0\zaverecny-projekt.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.AssemblyInfoInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.AssemblyInfo.cs
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.csproj.CoreCompileInputs.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.sourcelink.json
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\refint\zaverecny-projekt.dll
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.pdb
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\zaverecny-projekt.genruntimeconfig.cache
+C:\Users\Franta_School\RiderProjects\druhe pololeti\zaverecny-projekt\obj\Debug\net9.0\ref\zaverecny-projekt.dll
