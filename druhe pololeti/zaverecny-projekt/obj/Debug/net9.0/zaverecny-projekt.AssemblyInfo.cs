@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zaverecny-projekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a89049ca369e80304cd8277471e6fe82b5258753")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b524973eabbcf85ee12571c1b2ba7cfae5499f91")]
 [assembly: System.Reflection.AssemblyProductAttribute("zaverecny-projekt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zaverecny-projekt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
